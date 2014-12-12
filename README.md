@@ -1,4 +1,4 @@
 game_of_life
 ============
 
-Game of life in Haskell
+Experiment of writing game of life in haskell.
